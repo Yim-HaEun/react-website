@@ -39,4 +39,4 @@ ListPage.js
 Todo.js
 TodoNoCss.js
 ```
-<img src="https://img.shields.io/badge/react-00FF7B?style=for-the-badge&logo=alienware&logoColor=white">
+<img src="https://img.shields.io/badge/react-00FF7B?style=for-the-badge&logo=alienware&logoColor=black">
