@@ -1,5 +1,11 @@
 ## React-nodeJs를 활용한 website
 
+###installation
+1.clone the Repository
+```bash
+
+
+
 ## 웹사이트 설명
 
 nodeJs와 Express를 활용한 backend 구성
