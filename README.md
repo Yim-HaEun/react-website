@@ -4,7 +4,7 @@
 
 nodeJs와 Express를 활용한 backend 구성
 React를 활용한 frontend 구성
-
+```
 ├─public
 │ favicon.ico
 │ index.html
@@ -38,4 +38,5 @@ CreatePage.js
 ListPage.js
 Todo.js
 TodoNoCss.js
-<img src="https://img.shields.io/badge/react-00FF7B?style=for-the-badge&logo=alienware&logoColor=green">
+```
+<img src="https://img.shields.io/badge/react-00FF7B?style=for-the-badge&logo=alienware&logoColor=white">
