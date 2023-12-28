@@ -4,7 +4,7 @@
 1.clone the Repository
 ```bash
 
-
+git clone https://github.com/Yim-HaEun/react-website.git
 
 ## 웹사이트 설명
 
